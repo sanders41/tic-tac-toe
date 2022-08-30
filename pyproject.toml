@@ -14,7 +14,7 @@ camel-converter = {version = "^1.0.3", extras = ["pydantic"]}
 SQLAlchemy = "^1.4.40"
 
 [tool.poetry.dev-dependencies]
-black = "^22.3"
+black = "^22.6"
 flake8 = "^4.0.1"
 isort = "^5.10.1"
 mypy = "^0.971"
@@ -22,7 +22,7 @@ pre-commit = "^2.19.0"
 pytest = "^7.1.2"
 pytest-cov = "^3.0.0"
 tox = "^3.25.0"
-httpx = "^0.22.0"
+httpx = "^0.23.0"
 pytest-asyncio = "^0.18.3"
 
 [build-system]
